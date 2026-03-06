@@ -47,7 +47,7 @@ You will develop firmware for electronic control units powering next-generation 
     • Company cafeteria with warm lunch provided daily.
     
 ### How to apply
-Send your CV to: **hr@pekautomotive.com**  
+Send your CV to: **hr@pekauto.com**  
 or visit: **https://pekautomotive.com/careers**
 
 We look forward to hearing from you!
