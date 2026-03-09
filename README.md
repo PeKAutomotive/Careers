@@ -1,17 +1,10 @@
 # Careers at PeK Automotive
 
-## Firmware Developer
+# Embedded Firmware Developer (STM32 / ARM Cortex-M) – PeK Automotive
+📍 Logatec, Slovenia | Full-time | Relocation support
 
-📍 Location: Logatec, Slovenia  
-💼 Type: Full-time  
-🌍 Relocation: Assistance available
-On-site collaboration with the software, mechanical design and manufacturing team.
-
-PeK Automotive d.o.o. is a fast-growing company based in Slovenia. We develop advanced automotive and embedded solutions and are looking for talented Firmware Developers to join our team.
-
-At Pek Automotive in Slovenia we design and build advanced autonomous electric systems and robotic vehicles used in demanding real-world environments such as agriculture and rescue operations.
-We are expanding our R&D team and looking for an Embedded Firmware Developer who enjoy working close to hardware and solving complex engineering challenges.
-You will develop firmware for electronic control units powering next-generation autonomous machines.
+Join PeK Automotive and help build autonomous electric machines and robotic vehicles used in agriculture and rescue operations.
+You will develop embedded firmware for STM32-based control systems powering next-generation autonomous platforms.
 
 ### What you will work on:
     • Developing embedded firmware for microcontrollers (STM32),
