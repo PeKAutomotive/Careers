@@ -48,6 +48,6 @@ You will develop firmware for electronic control units powering next-generation 
     
 ### How to apply
 Send your CV to: **hr@pekauto.com**  
-or visit: **https://pekautomotive.com/careers**
+or visit: **https://pekauto.com/careers/**
 
 We look forward to hearing from you!
